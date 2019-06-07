@@ -7,7 +7,7 @@
 
 int main() {
     matrices m1(3,3);
-/*
+
     for(int row = 0;row<3;row++){
         for(int column = 0; column<3;column++) {
             m1.llenarMatriz(row,column);
@@ -31,7 +31,7 @@ int main() {
         }
         std::cout<<std::endl;
     }
-    */
+
 
     std::deque<int> dequeTest = {4,7,8,5,3,2,8,1};
     int n = 3;
