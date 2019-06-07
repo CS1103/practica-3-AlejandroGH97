@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/practica-3-AlejandroGH97/dequeTest.h
+deque
+-
+
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/practica-3-AlejandroGH97/main.cpp
+iostream
+-
+deque
+-
+matrices.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/practica-3-AlejandroGH97/matrices.h
+dequeTest.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/practica-3-AlejandroGH97/dequeTest.h
+seccion.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/practica-3-AlejandroGH97/seccion.h
+fstream
+-
+
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/practica-3-AlejandroGH97/matrices.h
+vector
+-
+iostream
+-
+
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/practica-3-AlejandroGH97/seccion.h
+map
+-
+fstream
+-
+iostream
+-
+sstream
+-
+
